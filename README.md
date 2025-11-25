@@ -116,5 +116,5 @@ Replace placeholder images with actual photos. Update image URLs in the data fil
 
 ## License
 
-All rights reserved. © 2024 Alexandros Liakos
+All rights reserved. © 2025 Alexandros Liakos
 
